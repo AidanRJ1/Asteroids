@@ -1,5 +1,5 @@
 # Asteroids
-This is the second guided project for [Boot.dev]("https://www.boot.dev").
+This is the second guided project for [Boot.dev](https://www.boot.dev).
 
 ## Future ToDo
 - Add a scoring system
